@@ -16,6 +16,8 @@ Ideal para aplicaciones web que requieren autenticación básica y gestión de u
 - 🔄 Mantenimiento de sesión (cookies o JWT).
 - ✔️ Validación de entradas y sanitización para evitar XSS/SQL injection :contentReference[oaicite:1]{index=1}.
 
+CREADORES:
+JAFET MENDIETA ESPINOZA Y MARIA MONSERRAT GARCIA BONILLA
 
 
 
